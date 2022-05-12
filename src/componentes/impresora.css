@@ -1,0 +1,47 @@
+
+#impresora{
+    width: 25.5rem;
+    margin:0 auto;
+    margin-top: 5rem;
+}
+#bandejaEntrada{
+    width: 23.4rem;
+    height: 3rem;
+    color:#ffffff;
+    background-color: rgb(119, 82, 155);
+    border: 0.5px solid #ffffff;
+    font-weight: bold;
+    font-size: 2rem;
+    padding:1rem;
+
+}
+.itemLista{
+    border: 0.5px solid #ffffff;
+    background-color: rgb(119, 82, 155);
+    display: flex;
+    justify-content: space-between;
+    color:#ffffff;
+    font-size: 1.5rem; 
+}
+p{
+    margin: 0;
+}
+#eliminar{
+    border:none;
+    background-color: rgb(119, 82, 155);
+    color: #ffffff;
+    font-size: 2rem;
+    
+}
+::placeholder{
+    color: #ffffff;
+}
+#contador{
+    border: 0.5px solid #ffffff;
+    background-color: rgb(119, 82, 155);
+    color:#ffffff;
+    font-size: 0.5rem; 
+}
+.textoElementoLista{
+    padding: 1rem;
+}
